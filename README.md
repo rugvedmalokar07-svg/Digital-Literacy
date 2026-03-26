@@ -29,7 +29,7 @@ Task 2: Student Digital Portfolio
 Task 3: Coding & Collaboration Platforms
 Task 4: Email Etiquette & Social Media Guidelines
 Task 5: Cybercrime Awareness
-Digital Literacy Quiz Take the quiz here --> 
+Digital Literacy Quiz Take the quiz here --> https://docs.google.com/forms/d/e/1FAIpQLSdLjqwId__Jv-rozZpIZw6yD5YRCUy7HTP7OW8jqpjcRR34OQ/viewform?usp=publish-editor
 
 Repository Structure
 
